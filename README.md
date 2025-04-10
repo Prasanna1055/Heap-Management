@@ -22,5 +22,5 @@ A C program that simulates a basic heap management system with custom `allocate(
 ## 📦 Compile & Run
 
 ```bash
-gcc heap.c -o heap
+gcc Heap_Management.c -o heap
 ./heap
